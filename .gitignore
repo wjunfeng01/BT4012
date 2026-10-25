@@ -1,0 +1,11 @@
+data/*
+!data/.gitkeep
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+*.log
+validation_*.csv
+/validation_results.csv
+/dynamic_adaptive_submission_7.csv
+/dynamic_plus_guarded_8.csv

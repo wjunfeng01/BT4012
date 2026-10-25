@@ -1,0 +1,7 @@
+data/
+submitted_reference/
+*.zip
+*.csv
+.venv/
+.git/
+__pycache__/
